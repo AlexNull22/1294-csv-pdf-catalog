@@ -1,0 +1,28 @@
+test_501_and_1001_rows_paginate_and_preserve_every_sku (__main__.CatalogAcceptance.test_501_and_1001_rows_paginate_and_preserve_every_sku) ... ok
+test_cli_check_has_no_output_side_effect (__main__.CatalogAcceptance.test_cli_check_has_no_output_side_effect) ... ok
+test_duplicate_columns (__main__.CatalogAcceptance.test_duplicate_columns) ... ok
+test_duplicate_sku_case_insensitive (__main__.CatalogAcceptance.test_duplicate_sku_case_insensitive) ... ok
+test_embedded_newline_quotes_and_xml_escaped_text (__main__.CatalogAcceptance.test_embedded_newline_quotes_and_xml_escaped_text) ... ok
+test_empty_data_header_only_and_empty_file (__main__.CatalogAcceptance.test_empty_data_header_only_and_empty_file) ... ok
+test_grouping_preserves_all_rows_and_stable_category_order (__main__.CatalogAcceptance.test_grouping_preserves_all_rows_and_stable_category_order) ... ok
+test_gui_routing_without_cli_args (__main__.CatalogAcceptance.test_gui_routing_without_cli_args) ... ok
+test_image_path_traversal_and_absolute_path (__main__.CatalogAcceptance.test_image_path_traversal_and_absolute_path) ... ok
+test_invalid_image_null_path_is_actionable (__main__.CatalogAcceptance.test_invalid_image_null_path_is_actionable) ... ok
+test_invalid_prices (__main__.CatalogAcceptance.test_invalid_prices) ... ok
+test_layout_valid_long_content_never_overlaps_price_and_sku (__main__.CatalogAcceptance.test_layout_valid_long_content_never_overlaps_price_and_sku) ... ok
+test_missing_columns (__main__.CatalogAcceptance.test_missing_columns) ... ok
+test_missing_image (__main__.CatalogAcceptance.test_missing_image) ... ok
+test_missing_output_folder_leaves_original_unchanged (__main__.CatalogAcceptance.test_missing_output_folder_leaves_original_unchanged) ... ok
+test_no_overwrite (__main__.CatalogAcceptance.test_no_overwrite) ... ok
+test_output_commit_failure_preserves_input_and_removes_partial_destination (__main__.CatalogAcceptance.test_output_commit_failure_preserves_input_and_removes_partial_destination) ... ok
+test_output_save_failure_preserves_input_and_removes_partial_destination (__main__.CatalogAcceptance.test_output_save_failure_preserves_input_and_removes_partial_destination) ... ok
+test_sample_pages_all_skus_and_amounts (__main__.CatalogAcceptance.test_sample_pages_all_skus_and_amounts) ... ok
+test_short_and_extra_csv_rows (__main__.CatalogAcceptance.test_short_and_extra_csv_rows) ... ok
+test_three_decimal_places_including_trailing_zero (__main__.CatalogAcceptance.test_three_decimal_places_including_trailing_zero) ... ok
+test_utf8_chinese_with_and_without_bom (__main__.CatalogAcceptance.test_utf8_chinese_with_and_without_bom) ... ok
+test_valid_prices_zero_max_and_two_decimals (__main__.CatalogAcceptance.test_valid_prices_zero_max_and_two_decimals) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 3.092s
+
+OK
